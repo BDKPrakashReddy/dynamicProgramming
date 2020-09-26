@@ -1,6 +1,5 @@
 package org.learn.dp.knapsak.sumsubset;
 
-//https://github.com/EbookFoundation/free-programming-books
 public class MinimumSubsetSum {
 
     public int getMinimumSubsetSum(int[] data) {
